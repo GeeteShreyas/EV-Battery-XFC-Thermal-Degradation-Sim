@@ -12,7 +12,7 @@ A coupled electro-thermal and aging simulation of a **Molicel INR-21700-P45B (4.
 | :--- | :--- | :---: | :---: | :---: |
 | **1C Standard (4.5 A)** | Passive Air ($15\text{ W/m}^2\cdot\text{K}$) | 42.0 min | ~27.4 °C | ~93.0% |
 | **4C XFC (18 A)** | Passive Air ($15\text{ W/m}^2\cdot\text{K}$) | 10.5 min | ~43.5 °C | ~82.5% |
-| **4C XFC (18 A)** | Active Liquid ($250\text{ W/m}^2\cdot\text{K}$) | 10.5 min | ~27.6 °C | — |
+| **4C XFC (18 A)** | Active Liquid ($250\text{ W/m}^2\cdot\text{K}$) | 10.5 min | ~27.6 °C | ~88.3% |
 
 * **Thermal Bottleneck:** Under passive air cooling, 4C fast charging drives cell temperature up by **+18.5 °C** in 10.5 minutes, approaching the 45 °C optimal operating limit. Switching to active liquid cooling ($250\text{ W/m}^2\cdot\text{K}$) suppresses the 4C peak temperature to **27.6 °C** (~16 °C reduction).
 * **Degradation Impact:** Under passive air cooling, the combined thermal acceleration and high C-rate stress reduce 500-cycle capacity retention from **~93.0% SoH (1C)** to **~82.5% SoH (4C)**, pushing the cell close to the standard 80% EV End-of-Life (EoL) threshold.
